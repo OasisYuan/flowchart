@@ -68,14 +68,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4VcEYmy6sL9e20GkQcCw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="wGV_q_7Ccg4vwoB7AuN0-4" target="LHNavZ_HutkN8GlFZke4-74">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="850" y="440" />
-              <mxPoint x="850" y="1430" />
-              <mxPoint x="1770" y="1430" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="4VcEYmy6sL9e20GkQcCw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wGV_q_7Ccg4vwoB7AuN0-4" target="LHNavZ_HutkN8GlFZke4-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wGV_q_7Ccg4vwoB7AuN0-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;language:en-AU;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;language:en-AU;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: Aptos;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CV_ContractValues&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="331" y="400" width="160" height="80" as="geometry" />
