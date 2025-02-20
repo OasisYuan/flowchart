@@ -684,7 +684,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LHNavZ_HutkN8GlFZke4-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: Aptos;&quot;&gt;Synonyms::&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font face=&quot;Aptos&quot;&gt;ADR2&lt;/font&gt;&lt;/p&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="1340" width="160" height="80" as="geometry" />
+          <mxGeometry x="1390" y="1290" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LHNavZ_HutkN8GlFZke4-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wGV_q_7Ccg4vwoB7AuN0-22" target="wGV_q_7Ccg4vwoB7AuN0-50" edge="1">
           <mxGeometry relative="1" as="geometry">
